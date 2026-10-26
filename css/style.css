@@ -113,9 +113,8 @@ h1 {
   text-decoration: underline;
 }
 
-.bio {
-  max-width: 680px;
-  margin: 32px 0 48px;
+.hero {
+  margin-bottom: 48px;
 }
 
 /* Featured project */

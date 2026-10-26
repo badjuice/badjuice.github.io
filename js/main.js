@@ -1,7 +1,5 @@
 import { profile } from './profile.js';
 
-document.getElementById('bio').textContent = profile.bio;
-
 const CACHE_KEY = 'gh-cache-v2';
 const CACHE_MS = 60 * 60 * 1000;
 
