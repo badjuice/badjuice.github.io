@@ -10,12 +10,100 @@
       "html_url": "https://github.com/badjuice/tximtxom",
       "description": "Online card game for 2 to 4 players: group your 7 cards into sets and same-suit straights, and keep your leftover points lowest.",
       "language": "TypeScript",
-      "stargazers_count": 0,
-      "pushed_at": "2026-10-14T13:53:21Z",
+      "stargazers_count": 1,
+      "pushed_at": "2026-10-26T01:14:35Z",
       "homepage": null,
       "has_pages": true,
       "fork": false,
-      "private": false
+      "private": false,
+      "topics": []
+    },
+    {
+      "name": "BoorusamaExplode",
+      "html_url": "https://github.com/badjuice/BoorusamaExplode",
+      "description": "Fork of Boorusama, the Flutter booru client, with fixes and features tested on realbooru.",
+      "language": "Dart",
+      "stargazers_count": 0,
+      "pushed_at": "2026-10-25T20:12:37Z",
+      "homepage": "",
+      "has_pages": false,
+      "fork": true,
+      "private": false,
+      "topics": []
+    },
+    {
+      "name": "badjuice",
+      "html_url": "https://github.com/badjuice/badjuice",
+      "description": "GitHub profile README (9009 theme)",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "pushed_at": "2026-10-25T09:52:20Z",
+      "homepage": null,
+      "has_pages": false,
+      "fork": false,
+      "private": false,
+      "topics": []
+    },
+    {
+      "name": "sketchplanations-reader",
+      "html_url": "https://github.com/badjuice/sketchplanations-reader",
+      "description": "Unofficial offline-first Android reader for Sketchplanations",
+      "language": "Kotlin",
+      "stargazers_count": 0,
+      "pushed_at": "2026-10-19T14:42:52Z",
+      "homepage": null,
+      "has_pages": false,
+      "fork": false,
+      "private": false,
+      "topics": []
+    },
+    {
+      "name": "SketchplanationsExplode",
+      "html_url": "https://github.com/badjuice/SketchplanationsExplode",
+      "description": "Kotlin client for sketchplanations.com content and its podcast feed",
+      "language": "Kotlin",
+      "stargazers_count": 0,
+      "pushed_at": "2026-10-19T01:03:10Z",
+      "homepage": null,
+      "has_pages": false,
+      "fork": false,
+      "private": false,
+      "topics": []
+    },
+    {
+      "name": "TabsExplode",
+      "html_url": "https://github.com/badjuice/TabsExplode",
+      "description": "Bookmark every open tab in one click, keeping tab groups as folders. For Chromium and Firefox.",
+      "language": "JavaScript",
+      "stargazers_count": 1,
+      "pushed_at": "2026-10-16T16:32:30Z",
+      "homepage": null,
+      "has_pages": false,
+      "fork": false,
+      "private": false,
+      "topics": [
+        "bookmarks",
+        "browser-extension",
+        "chrome-extension",
+        "firefox-addon",
+        "javascript",
+        "productivity",
+        "tab-groups",
+        "tabs"
+      ]
+    },
+    {
+      "name": "badjuice.github.io",
+      "html_url": "https://github.com/badjuice/badjuice.github.io",
+      "description": "Personal page: bio and public projects, in Monkeytype's 9009 colours.",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "pushed_at": "2026-10-15T15:37:20Z",
+      "homepage": null,
+      "has_pages": true,
+      "fork": false,
+      "private": false,
+      "topics": []
     },
     {
       "name": "EpicLibraryToolExplode",
@@ -27,19 +115,17 @@
       "homepage": null,
       "has_pages": false,
       "fork": false,
-      "private": false
-    },
-    {
-      "name": "TabsExplode",
-      "html_url": "https://github.com/badjuice/TabsExplode",
-      "description": "Bookmark every open tab in one click, keeping tab groups as folders. For Chromium and Firefox.",
-      "language": "JavaScript",
-      "stargazers_count": 1,
-      "pushed_at": "2026-08-05T09:56:49Z",
-      "homepage": null,
-      "has_pages": false,
-      "fork": false,
-      "private": false
+      "private": false,
+      "topics": [
+        "epic-games",
+        "epic-games-launcher",
+        "game-library",
+        "game-manager",
+        "powershell",
+        "powershell-module",
+        "tui",
+        "windows"
+      ]
     },
     {
       "name": "Lurka",
@@ -51,31 +137,34 @@
       "homepage": "",
       "has_pages": false,
       "fork": true,
-      "private": false
+      "private": false,
+      "topics": []
     },
     {
       "name": "OrcaSlicer-bambulab",
       "html_url": "https://github.com/badjuice/OrcaSlicer-bambulab",
-      "description": null,
+      "description": "Fork of OrcaSlicer with BambuNetwork support restored for Bambu Lab printers.",
       "language": null,
       "stargazers_count": 0,
       "pushed_at": "2026-05-12T18:58:00Z",
       "homepage": null,
       "has_pages": false,
       "fork": true,
-      "private": false
+      "private": false,
+      "topics": []
     },
     {
       "name": "url2pdf",
       "html_url": "https://github.com/badjuice/url2pdf",
-      "description": null,
+      "description": "Python script that saves a list of web pages as PDF files, rendered in Chromium through Playwright.",
       "language": "Python",
       "stargazers_count": 1,
       "pushed_at": "2026-04-05T22:06:22Z",
       "homepage": null,
       "has_pages": false,
       "fork": false,
-      "private": false
+      "private": false,
+      "topics": []
     },
     {
       "name": "balatro-joker-bot",
@@ -87,19 +176,21 @@
       "homepage": "",
       "has_pages": false,
       "fork": true,
-      "private": false
+      "private": false,
+      "topics": []
     },
     {
       "name": "Web-Environment-Integrity",
       "html_url": "https://github.com/badjuice/Web-Environment-Integrity",
-      "description": null,
+      "description": "Fork of Google's Web Environment Integrity API explainer.",
       "language": null,
       "stargazers_count": 0,
       "pushed_at": "2023-07-21T15:14:16Z",
       "homepage": null,
       "has_pages": false,
       "fork": true,
-      "private": false
+      "private": false,
+      "topics": []
     },
     {
       "name": "alterware-launcher",
@@ -111,7 +202,8 @@
       "homepage": "https://alterware.dev",
       "has_pages": false,
       "fork": true,
-      "private": false
+      "private": false,
+      "topics": []
     },
     {
       "name": "h2-mod",
@@ -123,7 +215,8 @@
       "homepage": "",
       "has_pages": false,
       "fork": true,
-      "private": false
+      "private": false,
+      "topics": []
     },
     {
       "name": "h1-mod",
@@ -135,7 +228,8 @@
       "homepage": "https://h1.gg",
       "has_pages": false,
       "fork": true,
-      "private": false
+      "private": false,
+      "topics": []
     },
     {
       "name": "iw7-mod",
@@ -147,7 +241,8 @@
       "homepage": "",
       "has_pages": false,
       "fork": true,
-      "private": false
+      "private": false,
+      "topics": []
     },
     {
       "name": "cod-bo3-boiii",
@@ -159,7 +254,8 @@
       "homepage": "",
       "has_pages": false,
       "fork": true,
-      "private": false
+      "private": false,
+      "topics": []
     },
     {
       "name": "IW4M-Admin",
@@ -171,7 +267,8 @@
       "homepage": "https://raidmax.org/IW4MAdmin",
       "has_pages": false,
       "fork": true,
-      "private": false
+      "private": false,
+      "topics": []
     },
     {
       "name": "ocelot-demo",
@@ -183,19 +280,21 @@
       "homepage": null,
       "has_pages": false,
       "fork": false,
-      "private": false
+      "private": false,
+      "topics": []
     },
     {
       "name": "iChan",
       "html_url": "https://github.com/badjuice/iChan",
-      "description": null,
+      "description": "Fork of iChan, a 4chan client for iOS.",
       "language": null,
       "stargazers_count": 0,
       "pushed_at": "2022-11-26T13:10:20Z",
       "homepage": null,
       "has_pages": false,
       "fork": true,
-      "private": false
+      "private": false,
+      "topics": []
     },
     {
       "name": "elsa-document-management",
@@ -207,7 +306,8 @@
       "homepage": null,
       "has_pages": false,
       "fork": false,
-      "private": false
+      "private": false,
+      "topics": []
     },
     {
       "name": "birday",
@@ -219,7 +319,8 @@
       "homepage": "",
       "has_pages": false,
       "fork": true,
-      "private": false
+      "private": false,
+      "topics": []
     },
     {
       "name": "randomix",
@@ -231,7 +332,8 @@
       "homepage": "",
       "has_pages": false,
       "fork": true,
-      "private": false
+      "private": false,
+      "topics": []
     },
     {
       "name": "messenger-pics-downloader",
@@ -243,7 +345,8 @@
       "homepage": "",
       "has_pages": false,
       "fork": true,
-      "private": false
+      "private": false,
+      "topics": []
     },
     {
       "name": "pipes.sh",
@@ -255,7 +358,8 @@
       "homepage": "https://pipeseroni.github.io/",
       "has_pages": false,
       "fork": true,
-      "private": false
+      "private": false,
+      "topics": []
     },
     {
       "name": "godot3_procgen_demos",
@@ -267,7 +371,8 @@
       "homepage": "",
       "has_pages": false,
       "fork": true,
-      "private": false
+      "private": false,
+      "topics": []
     },
     {
       "name": "FlapPyBird",
@@ -279,7 +384,8 @@
       "homepage": "",
       "has_pages": false,
       "fork": true,
-      "private": false
+      "private": false,
+      "topics": []
     },
     {
       "name": "quantum-game",
@@ -291,7 +397,8 @@
       "homepage": "http://quantumgame.io/",
       "has_pages": false,
       "fork": true,
-      "private": false
+      "private": false,
+      "topics": []
     },
     {
       "name": "fsck_you",
@@ -303,7 +410,8 @@
       "homepage": null,
       "has_pages": false,
       "fork": false,
-      "private": false
+      "private": false,
+      "topics": []
     }
   ]
 }

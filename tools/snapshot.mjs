@@ -15,7 +15,7 @@ const get = async (path) => {
 
 const user = await get(`/users/${LOGIN}`);
 const repos = await get(`/users/${LOGIN}/repos?per_page=100&type=owner&sort=pushed`);
-const keep = ['name', 'html_url', 'description', 'language', 'stargazers_count', 'pushed_at', 'homepage', 'has_pages', 'fork', 'private'];
+const keep = ['name', 'html_url', 'description', 'language', 'stargazers_count', 'pushed_at', 'homepage', 'has_pages', 'fork', 'private', 'topics'];
 const data = {
   user: { followers: user.followers, created_at: user.created_at, location: user.location },
   repos: repos.map((r) => Object.fromEntries(keep.map((k) => [k, r[k]]))),

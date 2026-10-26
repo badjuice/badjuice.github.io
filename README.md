@@ -6,8 +6,8 @@ The colours are Monkeytype's **9009** theme, from `frontend/src/ts/constants/the
 
 ## Editing
 
-- **Bio, pinned and hidden repos:** `js/profile.js`.
-- **Projects:** loaded from the GitHub API when the page opens (cached for an hour in the visitor's browser). Forks are left out. If the API can't be reached, the page uses `data/github.json`, which the deploy workflow refreshes on every push and every 6 hours.
+- **Bio, the featured TximTxom card, pinned and hidden repos:** `js/profile.js`.
+- **Projects:** loaded from the GitHub API when the page opens (cached for an hour in the visitor’s browser) and shown as cards. Forks are left out. If the API can't be reached, the page uses `data/github.json`, which the deploy workflow refreshes on every push and every 6 hours.
 
 ## Run locally
 

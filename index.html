@@ -3,7 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#eeebe2" />
+    <meta name="theme-color" content="#eeebe2" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#1b1c19" media="(prefers-color-scheme: dark)" />
     <title>Nox Fortes · badjuice</title>
     <meta name="description" content="Nox Fortes (badjuice): small tools in C#, PowerShell, JavaScript and Python, and TximTxom, a card game for the browser." />
     <link rel="stylesheet" href="css/style.css" />
@@ -11,20 +12,44 @@
   </head>
   <body>
     <main>
-      <header>
-        <h1>Nox Fortes</h1>
-        <p class="handle">badjuice</p>
+      <header class="hero">
+        <img class="avatar" src="https://github.com/badjuice.png?size=192" width="96" height="96" alt="" />
+        <div>
+          <p class="hi"><span class="dot" aria-hidden="true"></span>Hi, I'm</p>
+          <h1>Nox Fortes</h1>
+          <p class="tagline"><a class="handle" href="https://github.com/badjuice">@badjuice</a> · Small tools for problems I keep running into, and a card game.</p>
+        </div>
       </header>
 
       <p class="bio" id="bio"></p>
 
+      <section class="featured" id="featured" aria-labelledby="featured-title" hidden>
+        <div class="featured-text">
+          <span class="badge">Play in browser</span>
+          <h2 id="featured-title"></h2>
+          <p class="featured-desc" id="featured-desc"></p>
+          <div class="actions">
+            <a class="btn btn-primary" id="featured-play">
+              <svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><path d="M4 2.5v11l9-5.5z" fill="currentColor" /></svg>
+              <span id="featured-play-label"></span>
+            </a>
+            <a class="btn" id="featured-source">View source</a>
+          </div>
+          <p class="meta" id="featured-meta"></p>
+        </div>
+        <div class="fan" aria-hidden="true">
+          <span class="pc red">♦</span><span class="pc">♠</span><span class="pc red">♥</span><span class="pc">♣</span>
+        </div>
+      </section>
+
       <section aria-labelledby="projects-title">
-        <h2 id="projects-title">Projects</h2>
-        <ul class="projects" id="projects"></ul>
+        <h2 class="section-title" id="projects-title">Projects</h2>
+        <ul class="grid" id="projects"></ul>
       </section>
 
       <footer>
         <a href="https://github.com/badjuice">GitHub</a>
+        <a href="https://github.com/badjuice?tab=repositories">All repositories</a>
       </footer>
     </main>
     <script type="module" src="js/main.js"></script>

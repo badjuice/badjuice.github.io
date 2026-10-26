@@ -10,9 +10,12 @@ export const profile = {
     'in the browser. Mostly C#, PowerShell, JavaScript, TypeScript and Python. I wanted to write something ' +
     "more meaningful here, but I think there is a character lim",
 
+  // The big card at the top, with a button to the game.
+  featured: { repo: 'tximtxom', title: 'TximTxom', play: 'https://badjuice.github.io/tximtxom/' },
+
   // Repos to leave out of the project list (forks are always left out).
   hide: ['badjuice.github.io', 'badjuice'],
 
   // Repos to show first, in this order. The rest follow, newest activity first.
-  pin: ['tximtxom', 'EpicLibraryToolExplode', 'TabsExplode', 'url2pdf'],
+  pin: ['EpicLibraryToolExplode', 'TabsExplode', 'url2pdf'],
 };
