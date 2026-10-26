@@ -4,11 +4,7 @@ export const profile = {
   name: 'Nox Fortes',
 
   // Shown under the name. Plain text.
-  bio:
-    'I build small tools for problems I keep running into: moving Epic Games installs between drives, ' +
-    'bookmarking every open tab at once, turning web pages into PDFs. Lately also a card game you can play ' +
-    'in the browser. Mostly C#, PowerShell, JavaScript, TypeScript and Python. I wanted to write something ' +
-    "more meaningful here, but I think there is a character lim",
+  bio: 'I bring things to life through code...',
 
   // The big card at the top, with a button to the game.
   featured: { repo: 'tximtxom', title: 'TximTxom', play: 'https://badjuice.github.io/tximtxom/' },
